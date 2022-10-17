@@ -12,7 +12,7 @@ Track me on - [Google Site](https://sites.google.com/view/ashaf)
 - Integrated Development Environment (IDE): [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwtKmaBhBMEiwAyINuwLOSkW7SXctaHaE2EB4hakHr3G9RuI_gaEKL2AiWIqN9VNx435VkqhoCOI8QAvD_BwE&gclsrc=aw.ds)
 - Dataset: [Flowers Recognition Dataset over 4,300 Images](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
 - Machine learning model implemented by: [Teachable Machine](https://teachablemachine.withgoogle.com/)
-- Library for machine learning and artificial intelligence: [TensorFlow Lite Flutter](https://pub.dev/packages/tflite_flutter)
+- Library for machine learning and artificial intelligence: [A Flutter plugin for accessing TensorFlow Lite API](https://pub.dev/packages/flutter_tflite)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
